@@ -1,0 +1,27 @@
+{
+  "name": "stringify-css-rule",
+  "version": "0.0.1",
+  "description": "Convert a CSS style rule to a string of text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomhodgins/stringify-css-rule.git"
+  },
+  "keywords": [
+    "css",
+    "style",
+    "stylesheet",
+    "rule",
+    "stringify",
+    "string"
+  ],
+  "author": "Tommy Hodgins",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tomhodgins/stringify-css-rule/issues"
+  },
+  "homepage": "https://github.com/tomhodgins/stringify-css-rule#readme"
+}
